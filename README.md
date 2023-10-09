@@ -25,9 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubakumardirushan&show_icons=true&locale=en" alt="rubakumardirushan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubakumardirushan&" alt="rubakumardirushan" /></p>
- <style>
-        .center-image {
-            display: block;
-            margin: 0 auto;
-        }
-    </style>
