@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Secure Web Application Development](https://github.com/Rubakumardirushan/demo--3-.git)
 
-- 🌱 I’m currently learning **Flutter / React Native/ Spring Boot**
+- 🌱 I’m currently learning **Flutter / React Native/ Spring Boot/ Laravel**
 
 - 👨‍💻 All of my projects are available at [https://rubakumardirushan.github.io/Diru-portfolio-web-/](https://rubakumardirushan.github.io/Diru-portfolio-web-/)
 
