@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Rubakumar Dirushan</h1>
-<h3 align="center">A passionate full stack/Mobile developer from Srilanka</h3>
+<h3 align="center">A passionate full stack developer </h3>
  
 
 
@@ -12,7 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [https://rubakumardirushan.github.io/Diru-portfolio-web-/](https://rubakumardirushan.github.io/Diru-portfolio-web-/)
 
-- 📫 How to reach me **rubakumardirushan@gmail.com**
+- 📫 How to reach me **rubakumardirushan@gmail.com**https://rubakumardirushan.github.io/GitApp/
+- My new porject - GitHub user finder - https://rubakumardirushan.github.io/GitApp/
 
 
 <p align="left">
