@@ -14,6 +14,7 @@
 
 - 📫 How to reach me **rubakumardirushan@gmail.com**https://rubakumardirushan.github.io/GitApp/
 - My new porject - GitHub user finder - https://rubakumardirushan.github.io/GitApp/
+- My new project -GPA CALCULATOR -https://rubakumardirushan.github.io/GpaCal/
 
 
 <p align="left">
