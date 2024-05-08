@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on chatapp - http://login-otp.42web.io/login
 
-- 🌱 I’m currently learning ** Angular 17/ Bootstrap5/ Laravel0**
+- 🌱 I’m currently learning ** Angular 17/ Bootstrap5/ Laravel1**
 
 - 👨‍💻 All of my projects are available at [https://rubakumardirushan.github.io/Diru-portfolio-web-/](https://rubakumardirushan.github.io/Diru-portfolio-web-/)
 
