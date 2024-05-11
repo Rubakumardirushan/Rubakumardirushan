@@ -6,11 +6,11 @@
  
 
 
-- 🔭 I’m currently working on chatapp - http://login-otp.42web.io/login
+- 🔭 I’m currently working on chatapp - https://diruapp.000webhostapp.com/
 
 - 🌱 I’m currently learning ** Angular 17/ Bootstrap5/ Laravel11**
 
-- 👨‍💻 All of my projects are available at [https://rubakumardirushan.github.io/Diru-portfolio-web-/](https://rubakumardirushan.github.io/Diru-portfolio-web-/)
+- 👨‍💻 All of my projects are available at [https://rubakumardirushan.github.io/Diru-portfolio-web-/]
 
 - 📫 How to reach me **rubakumardirushan@gmail.com**https://rubakumardirushan.github.io/GitApp/
 - My new porject - GitHub user finder - https://rubakumardirushan.github.io/GitApp/
